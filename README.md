@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Web application replicates some basic functionality of Instagram. The fron-end is written in React.js, styling with becu.scss; the back-end is on Google Firebase. Though the connection information is included in the source code, the back-end will be inaccessible after the code challenge.
+This Web application replicates some basic functionality of Instagram. The fron-end is written in React.js, styling with Tailwind css; the back-end is on Google Firebase.
 
 ## Get Started
 
@@ -20,11 +20,7 @@ Please make sure Node.js is installed on the local machine, and then, follow the
 
 ## Test Accounts
 
-If the connection to the Firebase works, you should be able to sign up new account with Email address and password. The back-end will NOT send out email for confirmation; thus, it is even okay to sign up with a fake Email address. You can also use the following test accounts to play around:
-
--   Email address: testuser1@gmail.com, Password: Password123
-
--   Email address: raphael@sanzio.com, Password: Password123
+If the connection to the Firebase works, you should be able to sign up new account with Email address and password. The back-end will NOT send out email for confirmation; thus, it is even okay to sign up with a fake Email address.
 
 Note: for the time being, only Raphael has photos. Uploading photos is not implemented yet.
 
