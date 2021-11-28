@@ -34,4 +34,4 @@ Integration tests were written for this application. You can run the tests by fo
    `npm run test`
 
 3. The test results will be displayed in the terminal. The test coverage report is in the file below.  
-   `instagram-replicate-web\coverage\index.html`
+   `./coverage/index.html`
